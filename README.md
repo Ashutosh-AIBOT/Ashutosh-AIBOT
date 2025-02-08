@@ -1,8 +1,22 @@
-👋 Hi, I'm Ashutosh:
+Here's your **updated bio** with the **format you prefer:**  
 
- 💫 About Me,
- A passionate developer with a strong foundation in **Data Science, Machine Learning, and Deep Learning**. I enjoy exploring and working on **LLMs (Large Language Models)**, building predictive models, and experimenting with **Generative AI**.  <br><br>### **Skills & Expertise**  <br><br>🔹 **Data Science & Analytics**: Python, Pandas, NumPy, SQL, MongoDB, Power BI  <br>🔹 **Data Visualization**: Matplotlib, Seaborn  <br>🔹 **Machine Learning & Deep Learning**: TensorFlow, NLP, Computer Vision (moderate knowledge)  <br>🔹 **Data Preprocessing & Transformation**: Scikit-Learn (Feature Engineering, Scaling, Encoding, Pipelines)  <br>🔹 **Software Development**: Python (DSA), Java (Moderate Knowledge, Currently Learning DSA)  <br>🔹 **Web Development**: JavaScript, CSS  <br>🔹 **Model Training & Deployment**: Pipelines, Model Optimization  <br><br>I’m particularly interested in **learning and training models using pipelines**, working on **ML & AI innovations**, and enhancing my expertise in **NLP and Computer Vision**.  <br><br>🚀 Always open to collaborations and learning new technologies!  <br><br>Now it highlights both **your Java knowledge and ongoing DSA learning**. Let me know if you need any further tweaks! 🚀
+---
 
+👋 **Hi, I'm Ashutosh!**  
+
+🔭 **Currently Exploring:** Tech and innovation projects, diving into AI, IoT, and automation.  
+
+👯 **Looking to Collaborate On:** AI and automation projects, with a strong interest in **neural networks** and **market trading automation**.  
+
+🤝 **Seeking Help With:** Advanced AI applications and deep learning optimizations.  
+
+🌱 **Currently Learning:** **Next.js, Express.js, DSA, and Competitive Programming** to enhance my development skills.  
+
+💬 **Ask Me About:** **Arduino projects, AI/ML, competitive programming, and trading**—I love discussing and experimenting with these topics!  
+
+⚡ **Fun Fact:** My debugging process is **90% frustration, 9% accidental success, and 1% pretending I knew what I was doing all along.** 😆  
+
+🚀 **Passionate About:** Large Language Models (LLMs), Predictive Analytics, and Generative AI. Always open to **collaborations and new learning opportunities!**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-1a665525a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshknp12@gmail.com) 
