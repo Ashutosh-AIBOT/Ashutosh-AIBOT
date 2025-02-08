@@ -1,22 +1,14 @@
-Here's your **updated bio** with the **format you prefer:**  
-
----
-
 👋 **Hi, I'm Ashutosh!**  
 
-🔭 **Currently Exploring:** Tech and innovation projects, diving into AI, IoT, and automation.  
+🔍 **Exploring AI & Automation** | Passionate about **LLMs, Generative AI, Predictive Analytics, and Computer Vision**, building intelligent AI models, trading bots, and automation systems.  
 
-👯 **Looking to Collaborate On:** AI and automation projects, with a strong interest in **neural networks** and **market trading automation**.  
+💡 **Expertise in:** **Deep Learning, NLP, Computer Vision, AI-driven trading, and ML pipelines** with hands-on experience in **LLM fine-tuning, RAG, model optimization, and AI-powered automation**.  
 
-🤝 **Seeking Help With:** Advanced AI applications and deep learning optimizations.  
+🚀 **Experience:** **AI Developer at Enloomed India** | Built **Voice & Text-to-Image Generators, NLP models, real-time Computer Vision applications, and AI-powered financial forecasting tools**.  
 
-🌱 **Currently Learning:** **Next.js, Express.js, DSA, and Competitive Programming** to enhance my development skills.  
+⚡ **Fun Fact:** Debugging = **50% patience, 40% frustration, 10% accidental success!** 😆  
 
-💬 **Ask Me About:** **Arduino projects, AI/ML, competitive programming, and trading**—I love discussing and experimenting with these topics!  
-
-⚡ **Fun Fact:** My debugging process is **90% frustration, 9% accidental success, and 1% pretending I knew what I was doing all along.** 😆  
-
-🚀 **Passionate About:** Large Language Models (LLMs), Predictive Analytics, and Generative AI. Always open to **collaborations and new learning opportunities!**  
+Let me know if you'd like any refinements! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-1a665525a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshknp12@gmail.com) 
