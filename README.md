@@ -186,9 +186,3 @@ Sentiment · word clouds · emoji analysis
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 </div>
 ```
-
----
-
-**Commit message:**
-```
-docs: clean professional profile — removed streak, kept commits + languages only
