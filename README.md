@@ -3,6 +3,7 @@
 </div>
 
 <br/>
+
 ```python
 ashutosh = {
     "role"      : ["Data Analyst", "GenAI Developer", "AI Engineer"],
@@ -14,6 +15,7 @@ ashutosh = {
     "deployed"  : "6+ live projects — Vercel · Render · HuggingFace",
     "contact"   : "ashutoshknp12@gmail.com"
 }
+
 ```
 
 <br/>
