@@ -7,7 +7,6 @@
 ```python
 ashutosh = {
     "role"      : ["Data Analyst", "GenAI Developer", "AI Engineer"],
-    "location"  : "Kanpur, India",
     "current"   : "Building AI systems that ship to production",
     "experience": "AI/ML Developer — Enloomed India Pvt. Ltd.",
     "focus"     : ["LLMs", "RAG Pipelines", "Predictive Analytics",
@@ -27,7 +26,7 @@ ashutosh = {
 | Domain | Shipped |
 |--------|---------|
 | **Data Analytics** | End-to-end pipelines on 1M+ row datasets — RFM, CLV, churn prediction, demand forecasting, Power BI dashboards |
-| **GenAI / LLMs** | RAG pipelines, LangGraph agents, multi-source research assistants, local LLM deployments with Ollama |
+| **GenAI / LLMs** | RAG pipelines, LangGraph agents, multi-source research assistants, local LLM with Ollama |
 | **Machine Learning** | Churn scoring (85% ROC-AUC), demand forecasting (ARIMA + Prophet), computer vision, NLP |
 | **Full-Stack AI** | Django + FastAPI + Docker + CI/CD — multi-service platforms deployed to production |
 
