@@ -83,17 +83,8 @@ Live on Render.
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-
-**Customer Churn Risk Analytics**
-Random Forest + XGBoost churn scoring.
-85% ROC-AUC · High/Medium/Low risk tiers.
-₹3M revenue-at-risk quantified.
-
-[![Repo](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github)](https://github.com/Ashutosh-AIBOT/customer-churn-risk-analytics)
-
-</td>
 <td width="50%" valign="top">
 
 **WhatsApp Chat Intelligence**
