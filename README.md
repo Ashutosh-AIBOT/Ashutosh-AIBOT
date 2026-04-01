@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-🤖 Hi, I'm **Ashutosh**, an AI/ML Developer at **Enloomed India Pvt. Ltd.**, building production-grade GenAI systems and LLM-powered applications.<br><br>
+🤖 Hi, I'm **Ashutosh**, building production-grade GenAI systems and LLM-powered applications.<br><br>
 🔍 Focused on **RAG Pipelines · LangGraph Agents · LLM Fine-tuning · Multimodal AI** — shipping real systems to production, not just notebooks.<br><br>
 💡 Expertise in: **LangChain, LangGraph, HuggingFace, FAISS, ChromaDB, Ollama, OpenAI, Groq** — end-to-end from embedding to deployment.<br><br>
 🚀 What I'm building:<br>
