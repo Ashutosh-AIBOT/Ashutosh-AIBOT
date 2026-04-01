@@ -50,6 +50,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh-AIBOT/Ashutosh-AIBOT/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashutosh-AIBOT/Ashutosh-AIBOT/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Ashutosh-AIBOT/Ashutosh-AIBOT/output/github-contribution-grid-snake.svg" />
+</picture>
+
 # 🚀 Featured Projects:
 
 | 🧠 NeuroBot — Conversational AI | 📚 Multimodal RAG Research Assistant |
