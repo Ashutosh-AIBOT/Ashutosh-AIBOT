@@ -60,21 +60,6 @@
   <img alt="snake" src="https://raw.githubusercontent.com/Ashutosh-AIBOT/Ashutosh-AIBOT/output/github-contribution-grid-snake.svg" />
 </picture>
 
-# 🚀 Featured Projects:
-
-| 🧠 NeuroBot — Conversational AI | 📚 Multimodal RAG Research Assistant |
-|---|---|
-| LangGraph state machine + OpenRouter API. Multi-turn memory, tool calling, OOP architecture. Live on Render. [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square)](https://neurobot-intelligent-conversational-si37.onrender.com/) [![Repo](https://img.shields.io/badge/Repo-121011?style=flat-square&logo=github)](https://github.com/Ashutosh-AIBOT/neurobot-conversational-ai) | Chat with PDFs, YouTube, GitHub repos & research papers simultaneously. LangChain · FAISS · HuggingFace. [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square)](https://huggingface.co/spaces/Ashutosh1975/multimodal-rag-app) [![Repo](https://img.shields.io/badge/Repo-121011?style=flat-square&logo=github)](https://github.com/Ashutosh-AIBOT/multimodal-rag-research-assistant) |
-
-| 💬 WhatsApp Chat Intelligence | ⚡ ForecastX — AI Demand Forecasting |
-|---|---|
-| Raw `.txt` → full NLP pipeline. Sentiment · topic modeling · emoji analysis. Live Streamlit app. [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square)](https://whatsapp-chat-analyzer-pfh1.onrender.com/) [![Repo](https://img.shields.io/badge/Repo-121011?style=flat-square&logo=github)](https://github.com/Ashutosh-AIBOT/whatsapp-chat-intelligence) | 1M+ orders · ARIMA + Prophet · AI-powered stock optimization. [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square)](https://forecast-x-frontend.vercel.app/) [![HF](https://img.shields.io/badge/HF-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://ashutosh1975-spacelink.hf.space/) |
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashutosh-AIBOT&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=issues&custom_title=Commits%20%26%20Activity)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-AIBOT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-AIBOT&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&custom_title=Languages)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
