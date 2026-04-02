@@ -1,12 +1,30 @@
-name: Generate Snake
-
+name: Generate Snake + 3D Graph
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
-  generate:
+  # ── 3D Contribution Graph ──────────────────────────────────────────────────
+  build-3d-contrib:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Ashutosh-AIBOT
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated 3d contrib"; then
+            git push
+          fi
+  # ── Snake Animation ────────────────────────────────────────────────────────
+  build-snake:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
@@ -15,8 +33,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
