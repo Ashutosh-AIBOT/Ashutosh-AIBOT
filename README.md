@@ -3,7 +3,7 @@
 ## 💫 About Me:
 🤖 Hi, I'm **Ashutosh**, an AI Engineer bridging the gap between high-performance LLMs and scalable production infrastructure.
 
-🔍 **Current Focus:** Building **Production RAG Pipelines**, **LangGraph Agents**, and **Fine-tuning models (LoRA/QLoRA)** for private enterprise deployments.
+🔍 **Current Focus:** Building **Production RAG Pipelines**, **LangGraph Agents**, and **Fine-tuning models** for private enterprise deployments.
 
 💡 **Expertise:** Mastering the transition from "it works in a notebook" to "it scales in a cluster" using **Kubernetes**, **Docker**, and **MLOps** best practices.
 
